@@ -1,8 +1,9 @@
 ﻿# Theebs Kuru
- 
+
 There will never be an API to save the scores globally, just local stored values
 
 ## Check out the
+
 Original code by [KawaiiShadowii](https://github.com/KawaiiShadowii)
 
 [Homepage](https://tannhauser.moe)
